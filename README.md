@@ -1,12 +1,12 @@
 ![](https://github.com/mrJCOM123/mrJCOM123/blob/main/Cool%20Text%20-%20mrJCOM123.png)
 ### Hi there 👋
 
-Estudiante de 6to semestre en el Instituto Tecnologico de Tijuana
+Estudiante de 7to semestre en el Instituto Tecnologico de Tijuana
 
--🖥Tengo conocimiento en C, C#, Java
+-🖥Tengo conocimiento en C, C++, C#, Java
 
-| Lenguajes de Interfaz |   |   |   |   |
+| Sistemas Programables |   |   |   |   |
 |-----------------------|---|---|---|---|
-| Lunes a Viernes       |   |   |   |   |
-| 4 a 5 P.M.            |   |   |   |   |
+| Lunes a Jueves        |   |   |   |   |
+| 2 a 3 P.M.            |   |   |   |   |
 |                       |   |   |   |   |
